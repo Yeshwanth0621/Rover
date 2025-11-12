@@ -1,0 +1,12 @@
+# Ignore Backup Files
+
+*.bak
+*.temp
+*.tmp
+
+# Ignore Log Files
+
+*.log
+
+# Ignore OS Generated Files
+.DS_Store
